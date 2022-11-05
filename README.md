@@ -1,5 +1,6 @@
 # ABC Community Portal
-ABC Community Portal Background 
+ABC Community Background 
+
 ABC Jobs Pte Ltd is very well known for its work in helping people get jobs. Earlier they had all the work and stuff in offline mode but since the pandemic hit, it got difficult to continue it. Now they wanted to shift to online mode for their best. They want a community portal so that their customers can continue online and new leads can be attracted. They want their customers that are software engineers to get jobs and connect with each other to create a friendly environment since meeting physically isn’t possible. Once they log in they can connect with others globally and locally by adding a city/country filter in their search. Updating the profile can be done as well, so if the location is changed or any other personal detail is changed it can be updated too. New users looking for jobs or connecting with the same people and can also register into the portal and enjoy the services. 
 
 # Prototypes: 
